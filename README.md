@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<h2> Hi, I'm Alejandro Padilla! <img src="https://media.giphy.com/media/dZ9KBEQiWywoD4Rh42/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Alejandro Padilla! <img src="https://media.giphy.com/media/VJTWVub4Kyxn420SsH/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.usbbog.edu.co/">University of San Buenaventura</a><img src="https://media.giphy.com/media/zdHGfEFytqzszUYcTk/giphy.gif" width="30"><!--</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.usbbog.edu.co/">University of San Buenaventura</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><!--</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>-->
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Alejandro Padilla Guevara](https://img.shields.io/badge/-AlejandroPadilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-padilla-guevara-31a445165)](https://www.linkedin.com/in/alejandro-padilla-guevara-31a445165)
+[![GitHub alejandropg339](https://img.shields.io/github/followers/alejandropg339?label=follow&style=social)](https://github.com/alejandropg339)
 
 
-### <img src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/14u2xf1flRHgacyWu6/giphy.gif" width="80"> A little more about me...  
 
 ```javascript
 const alejandro = {
@@ -26,7 +23,8 @@ const alejandro = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@alejandropg339](https://github.com/alejandropg339)<br>
+👦 Portfolio [Alejandro Padilla](https://alejandropg339.github.io)
 
 <!--
 **alejandropg339/alejandropg339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

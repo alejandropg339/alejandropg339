@@ -16,6 +16,8 @@ const alejandro = {
   tools: [Angular, Node, Ionic, Bootstrap, Wordpress, Jest, Docker]
   
  challenge: "Now i am working in a project usign Angular and Ionic"
+  
+  //I am currently using MEAN Stack in my work
 }
 ```
 

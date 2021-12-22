@@ -13,7 +13,7 @@
 const alejandro = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, PHP, Java],
-  tools: [Angular, Node, Express, Ionic, Bootstrap, Wordpress, Jest, Docker],
+  tools: [Angular, React, Node, Express, Ionic, Bootstrap, Wordpress, Jest, Docker],
   db: [MySQL, MongoDB]
   
  challenge: "Now i am working in a project usign Angular and Ionic"

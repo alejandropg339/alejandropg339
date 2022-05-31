@@ -12,8 +12,8 @@
 ```javascript
 const alejandro = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, PHP, Java],
-  tools: [Angular, React, Node, Express, Ionic, Bootstrap, Wordpress, Jest, Docker],
+  code: [Javascript, HTML, CSS, Typescript],
+  tools: [Angular, React, Node, Express, Ionic, Bootstrap, Jest, Docker],
   db: [MySQL, MongoDB]
   
  challenge: "Now i am working in a project usign Angular and Ionic"

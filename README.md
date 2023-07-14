@@ -16,7 +16,7 @@ const alejandro = {
   tools: [Angular, React, Node, Express, Ionic, Bootstrap, Jest, Docker],
   db: [MySQL, MongoDB]
   
- challenge: "Now i am working in a project usign Angular and Ionic"
+ challenge: "Now i am working in a project usign React"
   
   //I am currently using MEAN Stack in my work
 }

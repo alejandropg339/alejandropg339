@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alejandro Padilla! <img src="https://media.giphy.com/media/VJTWVub4Kyxn420SsH/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://cobre.co">Cobre</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><!--</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://cobre.co">Cobre</a>&nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><!--</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>-->
 
 [![Linkedin: Alejandro Padilla Guevara](https://img.shields.io/badge/-AlejandroPadilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-padilla-guevara-31a445165)](https://www.linkedin.com/in/alejandro-padilla-guevara-31a445165)

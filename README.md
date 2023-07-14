@@ -18,7 +18,6 @@ const alejandro = {
   
  challenge: "Now i am working in a project usign React"
   
-  //I am currently using MEAN Stack in my work
 }
 ```
 
